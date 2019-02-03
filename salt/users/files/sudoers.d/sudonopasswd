@@ -1,2 +1,0 @@
-# /srv/salt/users/files/sudoers.d/sudonopasswd
-%sudo	ALL = (ALL) NOPASSWD: ALL
