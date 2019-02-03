@@ -1,5 +1,6 @@
 removed-users:
   - alaa1
+  - test
 
 
 sudo-users:
