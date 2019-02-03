@@ -1,5 +1,5 @@
 base:
   '*':
-    - pillars.users
-    - pillars.users.prod
-    - pillars.users.ssh-keys
+    - pillar.users
+    - pillar.users.prod
+    - pillar.users.ssh-keys
