@@ -1,5 +1,5 @@
 base:
   '*':
     - pillars.users
-    - pillars.users.{{ grains['environment'] }}
+    - pillars.users.prod
     - pillars.users.ssh-keys
